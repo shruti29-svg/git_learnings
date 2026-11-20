@@ -10,3 +10,81 @@ Git is an open source distributed, version control, software system designed to 
 #Github:
 Github is a cloud based platform/website used to host git reporsitories 
 It allows sharing and collaboration along with all the git features
+GIT AND GITHUB
+1. What is Git?
+
+Definition:
+
+Git is a free and open-source Version Control System (VCS) used to track changes in files and source code during software development.
+
+Description:
+
+Git helps developers manage and maintain different versions of their projects. It records changes made to files, allows developers to go back to previous versions, and helps multiple developers work on the same project.
+
+Git works on a local computer, so developers can track changes even without an internet connection.
+
+Features of Git:
+
+Tracks changes in source code.
+Maintains the history of a project.
+Allows developers to restore previous versions.
+Supports multiple branches.
+Helps multiple developers work together.
+It is free and open-source.
+
+Common Git Commands:
+
+git init – Initializes a new Git repository.
+git add – Adds files to the staging area.
+git commit – Saves changes to the repository.
+git status – Shows the current status of files.
+git log – Displays commit history.
+git push – Uploads changes to a remote repository.
+git pull – Downloads and integrates changes from a remote repository.
+2. What is GitHub?
+
+Definition:
+
+GitHub is a cloud-based platform used to store, manage, share, and collaborate on software projects using Git.
+
+Description:
+
+GitHub provides an online platform where developers can upload their Git repositories and access them from anywhere using the internet.
+
+It allows multiple developers to work together on the same project, review code, report bugs, and manage project development.
+
+GitHub makes it easier to share code and collaborate with other developers around the world.
+
+Features of GitHub:
+
+Stores code online.
+Supports collaboration between developers.
+Provides backup for project repositories.
+Allows developers to share their projects.
+Supports issue tracking and bug reporting.
+Provides pull requests for reviewing code.
+Supports project management.
+3. Difference Between Git and GitHub
+Git	GitHub
+Git is a version control system.	GitHub is a cloud-based hosting platform.
+It is installed on a computer.	It is accessed through the internet.
+It tracks changes in files.	It hosts and manages Git repositories.
+It can work offline.	Most collaboration features require internet access.
+It is a tool.	It is an online platform.
+Example: Git commands.	Example: GitHub website.
+4. Relationship Between Git and GitHub
+
+Git and GitHub work together to make software development easier.
+
+Git manages and tracks changes in project files.
+GitHub stores Git repositories online.
+Developers use Git to manage their code locally.
+They use GitHub to share their code and collaborate with others.
+
+Example:
+
+Suppose a developer creates a website on their computer. They use Git to track all changes made to the website and GitHub to upload the project online so other developers can access and contribute to it.
+
+5. Conclusion
+
+Git and GitHub are important tools in modern software development. Git is used to track and manage changes in source code, while GitHub is used to host repositories online and collaborate with other developers. Both tools help developers manage projects efficiently and work together.
