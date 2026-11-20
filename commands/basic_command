@@ -1,0 +1,16 @@
+Basic Commands of Git:
+
+1. ls : Lists the visible files and folders in your current directory.
+2. cd : Changes your current directory
+3. ls -a. Lists all files—including hidden files
+4. mkdir <folder-name>: Creates a new directory (folder)
+5. touch <file-name>: Creates a new, empty file (such as touch README.md or touch .gitignore).
+6. mv <source> <destination>: Moves or renames a file or directory.
+7. rm <file-name>: Permanently deletes a file.
+8. • rm -rf <folder-name>: Forcefully deletes a folder and everything inside it without asking for confirmation.
+9. cat <file-name>: Prints the entire contents of a file directly in the terminal.
+10.clear: Clears all previous text from your terminal screen (or press Ctrl + L).
+11. nano: built in text editor in git bash (can create supported files)
+12. git init: initializes git/ create empty git reporsitories
+13. git clone: used to clone your remote reporsitories to your local reporsitories.
+14. git status: used to check the current state of a git reporsitory, it shows which file have been modified, created, deleted, staged or still untracked.

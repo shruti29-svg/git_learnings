@@ -1,0 +1,12 @@
+# Git : 
+Git is an open source distributed, version control, software system designed to manage/handle very small to large projects with speed and efficiency.
+ * Open source distributed: code base free to use
+ * Version control: tracks modification /changes
+                    Time
+                    user
+                    backup
+
+
+#Github:
+Github is a cloud based platform/website used to host git reporsitories 
+It allows sharing and collaboration along with all the git features
